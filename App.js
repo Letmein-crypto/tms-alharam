@@ -177,7 +177,7 @@ export default function App() {
     <View style={styles.container}>
       <WebView
         ref={webviewRef}
-        source={{ uri: "https://YOUR-NETLIFY-URL.netlify.app" }}
+        source={{ uri: "https://trips-management-system.netlify.app/" }}
         style={styles.webview}
         injectedJavaScript={injectedJS}
         onMessage={onMessage}
