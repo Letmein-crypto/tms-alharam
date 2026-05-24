@@ -1,0 +1,28 @@
+{
+  "project_info": {
+    "project_number": "1063057780359",
+    "project_id": "trip-managemen-system",
+    "storage_bucket": "trip-managemen-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063057780359:android:3baa9e063f76d8ca271222",
+        "android_client_info": {
+          "package_name": "com.millenniummadinah.tms"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK_tW516wKMzkE7FFJP7Ta5-rZjWf0LKQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
